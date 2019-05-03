@@ -1,0 +1,13 @@
+When using Hooks
+
+Only call hooks at the top level
+Only call hooks from React functions and custom hooks
+Make sure to put 'use' in front of custom hooks
+Backwards-compatible
+
+
+Resources
+
+reactjs.org/hooks
+
+reactjs.org/docs/hooks-faq
